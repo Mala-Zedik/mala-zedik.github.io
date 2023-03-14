@@ -26,8 +26,13 @@
   identifier = "twitter"
   pre = "twitter"
   url = "https://twitter.com/MalaZedik"
-  weight = 60
+  weight = 3
 
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/MalaZedik"
+  weight = 4
 
 
 # -- Footer Menu --
