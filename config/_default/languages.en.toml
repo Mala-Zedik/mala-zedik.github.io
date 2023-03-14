@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Mala Zedik"
+logo = "img/rafa.webp"
+description = "Gaming Enthusiast & World Record Hunter"
+copyright = "© 2015-2023 Mala Zedik. All Right Reserved."
+
+dateFormat = "January 2, 2006"
+
+[author]
+  name = "Mala Zedik"
+  image = "img/mala_zedik.webp"
+  headline = "One of the many fish in the pool of the Interwebs."
+  bio = "Hunting those World Records."
+  links = [
+    { twitter = "https://twitter.com/MalaZedik" },
+    { youtube = "https://www.youtube.com/MalaZedik" },
+    { twitch = "https://twitch.tv/mala_zedik" }
+  ]
