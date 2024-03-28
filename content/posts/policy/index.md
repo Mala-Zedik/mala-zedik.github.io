@@ -5,7 +5,7 @@ summary: "Information for the Policy relating to Mala Zedik."
 tags: ["Mala Zedik", "Policy", "Mobile Game"]
 keywords: ["Mala Zedik Policy"]
 
-date: 2024-3-27T12:10:46-08:00
+date: 2024-03-27T10:10:10-08:00
 draft: false
 showauthor: true
 
@@ -58,7 +58,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 ### Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of April 1st 2024.
+This policy is effective as of March 28th 2024.
 
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at mala.zedik@gmail.com
