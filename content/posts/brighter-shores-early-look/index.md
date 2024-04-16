@@ -24,14 +24,14 @@ Many people who have seen previews of Brighter Shores love to compare it against
 ## No Tick Manipulation
 Runescape is known for it's server [tick manipulation](https://runescape.wiki/w/Tick_manipulation), however this is something Brighter Shores will *NOT* have. Andrew has clearly stated;
 > "movement is grid based, but the timing of the movement (and everything else) is NOT tick based so its very responsive."
-
-[Twitter Post](https://x.com/AndrewCGower/status/1768001320500314149)
+> [Twitter Post](https://x.com/AndrewCGower/status/1768001320500314149)
 
 ## Andrew Will Not Sell Brighter Shores
 This information is very important to historical events around Runescape. After Andrew sold Runescape, it's been mentioned that Jagex has converted the game into a MTX machine.
 > "I have no intention of selling it. I can’t see what I would gain from doing so, as I already have enough money. This is a passion project which I want to keep."
 
 [Twitter Post](https://x.com/AndrewCGower/status/1769638406391243078)
+
 Anyone who has a passion and has the ability to pursue that passion generally yield great results. It's a labor of love, and because of this we can expect great things!
 
 ## MTX Be Gone
