@@ -16,6 +16,7 @@ Here you will learn about the Mala Zedik Mobile Game released on Android
 ## Early Access
 Currently you can download 'Mala Zedik' on the Android Google Play store for free. The Game is in early access and there are no plans for any MTX in the game. There will be in-game advertisements that are optional. By viewing the advertisements, you gain some buffs! However that is not the only method to obtain said buffs which is why it's optional.
 The game will stay in Early Access until I feel it is ready for the 1.0 release. While in Early Access, there are limited downloads on the Google Play store, so if you are interested I suggest you download it sooner then later!
+Some of the graphics and icons in the Early Access will be changed/updated for the 1.0 release. All of the art in use right now is public domain or free in some form or another, however to avoid possible problems I would like to update it all with personal graphics over the course of the development. So, expect some art changes over the development. 
 
 ## Roadmap
 I am planning to feature creep ideas, so not everything can be listed out in a roadmap. However, I can provide you with some ideas and concepts that I have in mind for the game!
