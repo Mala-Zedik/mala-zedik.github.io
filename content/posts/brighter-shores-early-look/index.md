@@ -12,7 +12,7 @@ showauthor: true
 
 Here you can find all the latest information relating to Brighter Shores before the any pubic Alpha/Beta testing. I'll update this article as I find information.
 
-Last Updated: April 16th, 2024
+Last Updated: April 29th, 2024
 
 ## Brighter Shores
 Brighter Shores is an upcoming 2024 Q3 MMORPG by [Andrew Gower](https://twitter.com/AndrewCGower). If that name doesn't ring a bell for you, nothing is wrong with that. He is considered the father and maker of Runescape that Jagex currently owns.
@@ -59,6 +59,13 @@ There will be many different professions in game, however they will be linked to
 > We've tried to make the professions link into one another quite a bit. We've tried to mix it up a bit. Some of them are more standalone than others because we've tried to, again, have variety, depending on the mood you're in and how you want to play it. As you level up, we've tried to make the pace at which you get new things to do in the professions very rapid so it doesn't get too dry and too repetitive. 
 > They're also linked to the episode structure we've got. So you don't get every single one straightaway. As you go through the game, more and more become available. You can do them all at once, but you have to progress through the story, because we don't want to overwhelm. 
 > - Andrew Gower: [gamesradar Interview](https://www.gamesradar.com/runescape-creator-answers-our-biggest-questions-about-his-new-mmo-brighter-shores-classes-professions-monetization-and-a-ttrpg-open-world/)
+
+In addition; there will be different ranks to the professions;
+ * Journeyman
+ * Adept
+ * Expert
+ * Complete
+ > - Andrew Gower: [Twitter Post](https://twitter.com/AndrewCGower/status/1783863736056386029)
 
 ### Confirmed Professions
 From the [Steam Store page](https://store.steampowered.com/app/2791440/Brighter_Shores/) we have the following confirmed professions;
@@ -117,4 +124,19 @@ There will be Copper, Silver, and Gold with no other currencies planned at this 
 There are no known plans for a public Alpha/Beta at this time. However there are plans for a Closed Beta.
 > There will be a closed beta. I will post more about it on x/twitter closer to the time.
 > - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1767973447425003776)
+
+## Information Cards
+Paul Gower is another source of information and he has been working on the Information Cards of Brighter Shores. Information internally to the game will be shared by using these Information Cards so you can gain a better understanding of the game while playing.
+> Today I have been mostly describing stuff. Virtually everything in Brighter Shores has these information cards. There are thousands of them and they all have description text boxes.
+> - Paul Gower: [Twitter Post](https://x.com/PaulJGower/status/1781334642265559394)
+
+![Information Cards](img/info-card-x.webp)
+
+## Capes
+It has been confirmed that Brighter Shores will have capes for your achievements! The Profession capes will 'grow' as your progress your skill.
+> This week, our artist Greg has been designing the "profession capes." Each cape has 4 sections, which are progressively unlocked as you level up. The final cape section is only for players who reach the top level. Here are some of our favorites.
+> - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1783863736056386029)
+
+![4 Capes](img/4-capes-x.webp)
+
 
