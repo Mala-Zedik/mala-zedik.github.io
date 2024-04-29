@@ -23,22 +23,22 @@ Many people who have seen previews of Brighter Shores love to compare it against
 
 ## No Tick Manipulation
 Runescape is known for it's server [tick manipulation](https://runescape.wiki/w/Tick_manipulation), however this is something Brighter Shores will *NOT* have. Andrew has clearly stated;
-> "movement is grid based, but the timing of the movement (and everything else) is NOT tick based so its very responsive." 
+> movement is grid based, but the timing of the movement (and everything else) is NOT tick based so its very responsive.
 > - Andrew Gower:[Twitter Post](https://x.com/AndrewCGower/status/1768001320500314149)
 
 ## Andrew Will Not Sell Brighter Shores
 This information is very important to historical events around Runescape. After Andrew sold Runescape, it's been mentioned that Jagex has converted the game into a MTX machine.
-> "I have no intention of selling it. I can’t see what I would gain from doing so, as I already have enough money. This is a passion project which I want to keep."
+> I have no intention of selling it. I can’t see what I would gain from doing so, as I already have enough money. This is a passion project which I want to keep.
 > - Andrew Gower:[Twitter Post](https://x.com/AndrewCGower/status/1769638406391243078)
 
 Anyone who has a passion and has the ability to pursue that passion generally yield great results. It's a labor of love, and because of this we can expect great things!
 
 ## MTX Be Gone
 Microtransactions means many different things for gamers, but for Andrew they are a thing of the past! He *hates* MTX and due to this it's highly unlikely to see any MTX in Brighter Shores.
-> "I dont like mtx. So I am planning on making a huge chunk free and then selling an all-inclusive ‘premium pass’ to access the rest. The steam page has more info at the bottom."
+> I dont like mtx. So I am planning on making a huge chunk free and then selling an all-inclusive ‘premium pass’ to access the rest. The steam page has more info at the bottom.
 > - Andrew Gower:[Twitter Post](https://x.com/AndrewCGower/status/1767972742349901919)
 
-> "There's just way too many microtransactions for my personal liking. I like to buy a game, or subscribe to a game or whatever, and then have everything. I don't want to be asked every five seconds or tempted every five seconds to fork over some more money. I just feel it detracts from the game. Our number one aim is not monetization, it's players"
+> There's just way too many microtransactions for my personal liking. I like to buy a game, or subscribe to a game or whatever, and then have everything. I don't want to be asked every five seconds or tempted every five seconds to fork over some more money. I just feel it detracts from the game. Our number one aim is not monetization, it's players
 > - Andrew Gower:[gamesradar Interview](https://www.gamesradar.com/ahead-of-his-new-mmo-runescape-creator-says-games-have-gotten-too-microtransaction-heavy-our-number-one-aim-is-not-monetization-its-players/)
 
 ## Not Subscription Based
@@ -48,10 +48,10 @@ For some people this may come at a shock, but there are zero plans at a subscrip
 
 ## Episodic in Nature
 The main story for Brighter Shores will be released in episodes.
-> "Progress update: We are planning on launching our big game with 4 episodes to start with. The first 3 episodes are very playable now and just need a bit more testing/tuning. I am working on episode 4 now..."
+> Progress update: We are planning on launching our big game with 4 episodes to start with. The first 3 episodes are very playable now and just need a bit more testing/tuning. I am working on episode 4 now...
 > - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1725549202787258470)
 
-> "Each episode features its own unique side quests, professions and lands, as well as advancing the central story."
+> Each episode features its own unique side quests, professions and lands, as well as advancing the central story.
 > - Public Source:[Steam Page](https://store.steampowered.com/app/2791440/Brighter_Shores/)
 
 ## Professions
@@ -85,14 +85,14 @@ Information coming soon on this matter. [Want to provide possible leads and not 
 
 ## The World
 Brighter Shores will be an Open World, but a 'room based' system. [Andrew showcased a video on Twitter.](https://x.com/AndrewCGower/status/1776276857706479810) There are many questions fans are asking about the room system and how it will work. Thankful Andrew has been kind enough to share some insight on it!
-> "One of the unusual things about our world is we've gone with a room-based system which has the feeling of a lot of RPGs where your characters will be in a room doing a certain encounter, and then you're in another room doing an encounter. The rooms all connect together; it's very easy to move between one and the other. It has various technical advantages as well, because it lets us instance each room the right number of times based on how many players are in it, so we can make sure that no part of the world gets too crowded or too empty. There's a sweet spot of how crowded you want the game to be to feel nice, but too crowded and it feels just overwhelming and totally empty and it just feels a bit dead. "
-> "I'm very keen to cater to players who want to explore and discover. We've got this world map that shows you everywhere you've been but it starts off completely blank, just the room you're in. And each time you explore a new room, it maps it out for you onto the map. You can discover things in the room by clicking on them, and as you do it labels them on the map for you. So it does it all automatically. The first thing a lot of players will probably do is just walk around the world a bit mapping everything out by going to each different room, clicking on things in the room to see what's in them, and letting it put them on the map and just getting a feel for what is where. So you get this lovely feeling of exploration."
+> One of the unusual things about our world is we've gone with a room-based system which has the feeling of a lot of RPGs where your characters will be in a room doing a certain encounter, and then you're in another room doing an encounter. The rooms all connect together; it's very easy to move between one and the other. It has various technical advantages as well, because it lets us instance each room the right number of times based on how many players are in it, so we can make sure that no part of the world gets too crowded or too empty. There's a sweet spot of how crowded you want the game to be to feel nice, but too crowded and it feels just overwhelming and totally empty and it just feels a bit dead. 
+> I'm very keen to cater to players who want to explore and discover. We've got this world map that shows you everywhere you've been but it starts off completely blank, just the room you're in. And each time you explore a new room, it maps it out for you onto the map. You can discover things in the room by clicking on them, and as you do it labels them on the map for you. So it does it all automatically. The first thing a lot of players will probably do is just walk around the world a bit mapping everything out by going to each different room, clicking on things in the room to see what's in them, and letting it put them on the map and just getting a feel for what is where. So you get this lovely feeling of exploration.
 > - gamesradar News: [gamesradar Interview](https://www.gamesradar.com/runescape-creator-answers-our-biggest-questions-about-his-new-mmo-brighter-shores-classes-professions-monetization-and-a-ttrpg-open-world/)
 
-> "the number of players allowed in each room depends on the room, market place rooms are allow to get very crowded to aid trading, room with monsters allow less players at once so the monsters don’t get over contended, other rooms are between the two. If a room is full it automatically creates more instances of it to keep how crowded each instance is at the optimum level for the gameplay to work well. If you have a friend in a room it will try to put you in the same instance your friend is in."
+> the number of players allowed in each room depends on the room, market place rooms are allow to get very crowded to aid trading, room with monsters allow less players at once so the monsters don’t get over contended, other rooms are between the two. If a room is full it automatically creates more instances of it to keep how crowded each instance is at the optimum level for the gameplay to work well. If you have a friend in a room it will try to put you in the same instance your friend is in.
 > - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1776290972768297098)
 
-> "when in combat the exits to the room become ‘locked’ so you cant leave the room during combat without using an immunity spell first. (which takes time to cast). This gives a really nice balance between being able to move around tactically during combat, whilst not being able to escape TOO easily."
+> when in combat the exits to the room become ‘locked’ so you cant leave the room during combat without using an immunity spell first. (which takes time to cast). This gives a really nice balance between being able to move around tactically during combat, whilst not being able to escape TOO easily.
 > - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1776291731970875479)
 
 ## Botting
@@ -126,9 +126,13 @@ There are no known plans for a public Alpha/Beta at this time. However there are
 > - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1767973447425003776)
 
 ## Information Cards
-Paul Gower is another source of information and he has been working on the Information Cards of Brighter Shores. Information internally to the game will be shared by using these Information Cards so you can gain a better understanding of the game while playing.
+Paul Gower is another source of information and he has been working on the Information Cards of Brighter Shores. Information internally to the game will be shared by using these Information Cards so you can gain a better understanding of the game while playing. Make sure to interact with everything so that you can collect these cards!
+
 > Today I have been mostly describing stuff. Virtually everything in Brighter Shores has these information cards. There are thousands of them and they all have description text boxes.
 > - Paul Gower: [Twitter Post](https://x.com/PaulJGower/status/1781334642265559394)
+
+> They’re mostly shown as a result of examining something so that we can also give some statistical information, and they also fit in with our tabletop gaming aesthetic. If they’re profession features, they also get collected into the professions interface for completionists.
+> - Paul Gower: [Twitter Post](https://x.com/PaulJGower/status/1781360187804164590) 
 
 ![Information Cards](img/info-card-x.webp)
 
