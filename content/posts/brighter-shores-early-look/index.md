@@ -84,7 +84,7 @@ From the [Steam Store page](https://store.steampowered.com/app/2791440/Brighter_
 Information coming soon on this matter. [Want to provide possible leads and not random nonsense.]
 
 ## The World
-Brighter Shores will be an Open World, but a 'room based' system. [Andrew showcased a video on Twitter.](https://x.com/AndrewCGower/status/1776276857706479810) There are many questions fans are asking about the room system and how it will work. Thankful Andrew has been kind enough to share some insight on it!
+Brighter Shores will be an Open World, but a 'room based' system. [Andrew showcased a video on Twitter.](https://x.com/AndrewCGower/status/1776276857706479810) There are many questions fans are asking about the room system and how it will work. Thankful Andrew has been kind enough to share some insight on it! (See Discoveries section for video footage.)
 > One of the unusual things about our world is we've gone with a room-based system which has the feeling of a lot of RPGs where your characters will be in a room doing a certain encounter, and then you're in another room doing an encounter. The rooms all connect together; it's very easy to move between one and the other. It has various technical advantages as well, because it lets us instance each room the right number of times based on how many players are in it, so we can make sure that no part of the world gets too crowded or too empty. There's a sweet spot of how crowded you want the game to be to feel nice, but too crowded and it feels just overwhelming and totally empty and it just feels a bit dead. 
 > I'm very keen to cater to players who want to explore and discover. We've got this world map that shows you everywhere you've been but it starts off completely blank, just the room you're in. And each time you explore a new room, it maps it out for you onto the map. You can discover things in the room by clicking on them, and as you do it labels them on the map for you. So it does it all automatically. The first thing a lot of players will probably do is just walk around the world a bit mapping everything out by going to each different room, clicking on things in the room to see what's in them, and letting it put them on the map and just getting a feel for what is where. So you get this lovely feeling of exploration.
 > - gamesradar News: [gamesradar Interview](https://www.gamesradar.com/runescape-creator-answers-our-biggest-questions-about-his-new-mmo-brighter-shores-classes-professions-monetization-and-a-ttrpg-open-world/)
@@ -94,6 +94,11 @@ Brighter Shores will be an Open World, but a 'room based' system. [Andrew showca
 
 > when in combat the exits to the room become ‘locked’ so you cant leave the room during combat without using an immunity spell first. (which takes time to cast). This gives a really nice balance between being able to move around tactically during combat, whilst not being able to escape TOO easily.
 > - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1776291731970875479)
+
+### Discoveries
+As mentioned above, as you explore the world, the world map will be filled out for you. As part of this exploration there are interactions and 'Discoveries' for you to find in each room. By discovering objects and resources it will continue to fill out your world map with the information needed.
+
+[Andrew Gower Video | Twitter Post](https://x.com/AndrewCGower/status/1791500208351658390)
 
 ## Botting
 Are there any plans against bots?
