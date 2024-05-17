@@ -12,7 +12,8 @@ showauthor: true
 
 Here you can find all the latest information relating to Brighter Shores before the any pubic Alpha/Beta testing. I'll update this article as I find information.
 
-Last Updated: April 29th, 2024
+Last Updated: May 17th, 2024
++ Added Discoveries section to World Map
 
 ## Brighter Shores
 Brighter Shores is an upcoming 2024 Q3 MMORPG by [Andrew Gower](https://twitter.com/AndrewCGower). If that name doesn't ring a bell for you, nothing is wrong with that. He is considered the father and maker of Runescape that Jagex currently owns.
