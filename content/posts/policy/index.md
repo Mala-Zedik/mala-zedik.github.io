@@ -12,7 +12,7 @@ showauthor: true
 ---
 
 In this section of the website, you will learn the Policies for Mala Zedik website and Mobile game.
-Both platforms make use of the same techonologies.
+Both platforms make use of the same technologies.
 
 ## Privacy Policy
 Mala Zedik built the Mala Zedik app as an Ad Supported app. This SERVICE is provided by Mala Zedik at no cost and is intended for use as is.
@@ -30,7 +30,6 @@ Link to the privacy policy of third-party service providers used by the app
 
 [Google Play Services](https://policies.google.com/privacy)
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-[AdColony](https://www.adcolony.com/privacy-policy/)
 
 ### Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
@@ -63,3 +62,10 @@ This policy is effective as of March 28th 2024.
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at mala.zedik@gmail.com
 Alternatively, you may reach out to Mala Zedik on Discord. 
+
+### Asset Credits
+Thank you to everyone who has enabled me to create this game by letting me use their assets. It wouldn't have been possible to create the game without them.
+* [Character](https://penzilla.itch.io/protagonist-character) - By Protagonist
+* [Backgrounds](https://craftpix.net/file-licenses/) - By CraftPix.net
+* [Chests](https://karsiori.itch.io/pixel-art-chest-pack-animated) - By Karisori
+* [Icons](https://game-icons.net/) - By [Games Icons](https://game-icons.net/about.html#authors) (Various Authors; See website for more info.) 
