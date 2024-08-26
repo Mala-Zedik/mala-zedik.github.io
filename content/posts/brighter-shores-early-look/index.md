@@ -1,7 +1,7 @@
 ---
-title: "Brighter Shores and Everything before Alpha/Beta"
-description: "An early look at Brighter Shores before Alpha/Beta"
-summary: "All your information about Brighter Shores before Alpha/Beta"
+title: "Brighter Shores and Everything Before Open Beta"
+description: "An early look at Brighter Shores before Open Beta"
+summary: "All your information about Brighter Shores before Open Beta"
 tags: ["Mala Zedik", "Early Access", "Brighter Shores", "Early Look"]
 keywords: ["Brighter Shores Early Look"]
 
@@ -12,8 +12,10 @@ showauthor: true
 
 Here you can find all the latest information relating to Brighter Shores before the any pubic Alpha/Beta testing. I'll update this article as I find information.
 
-Last Updated: May 17th, 2024
-+ Added Discoveries section to World Map
+Last Updated: August 26th, 2024
+
+## Release Date
+November 5th, 2024 if all goes well. It will be an Early Access release on Steam as an Open Beta. Please [watch the video](https://x.com/AndrewCGower/status/1827031074850984380) posted by Andrew Gower on X for information about this. 
 
 ## Brighter Shores
 Brighter Shores is an upcoming 2024 Q3 MMORPG by [Andrew Gower](https://twitter.com/AndrewCGower). If that name doesn't ring a bell for you, nothing is wrong with that. He is considered the father and maker of Runescape that Jagex currently owns.
@@ -26,6 +28,9 @@ Many people who have seen previews of Brighter Shores love to compare it against
 Runescape is known for it's server [tick manipulation](https://runescape.wiki/w/Tick_manipulation), however this is something Brighter Shores will *NOT* have. Andrew has clearly stated;
 > movement is grid based, but the timing of the movement (and everything else) is NOT tick based so its very responsive.
 > - Andrew Gower:[Twitter Post](https://x.com/AndrewCGower/status/1768001320500314149)
+
+> Brighter Shores doesnt need a local server to work well because it has extremely effective client side prediction. During out internal testing we normally simulate a roundtrip latency of 300 milliseconds and we cant even tell its there!
+> - Andrew Gower:[X Post](https://x.com/AndrewCGower/status/1822002498686873987)
 
 ## Andrew Will Not Sell Brighter Shores
 This information is very important to historical events around Runescape. After Andrew sold Runescape, it's been mentioned that Jagex has converted the game into a MTX machine.
@@ -79,10 +84,8 @@ From the [Steam Store page](https://store.steampowered.com/app/2791440/Brighter_
 - Stonemason
 - Merchant
 - Blacksmith
+- Investigator | Detective
 - 'and many more!'
-
-### Possible Professions (Coming Soon)
-Information coming soon on this matter. [Want to provide possible leads and not random nonsense.]
 
 ## The World
 Brighter Shores will be an Open World, but a 'room based' system. [Andrew showcased a video on Twitter.](https://x.com/AndrewCGower/status/1776276857706479810) There are many questions fans are asking about the room system and how it will work. Thankful Andrew has been kind enough to share some insight on it! (See Discoveries section for video footage.)
@@ -126,10 +129,25 @@ There will be Copper, Silver, and Gold with no other currencies planned at this 
 > there isnt multiple currencies. There is 1000 copper to a silver, and 1000 silver to a gold.
 > - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1771788649589289317)
 
+## PvP
+The game will have PvP when it fully releases. It is not planned for Beta / Early Access. Please see the Open Beta section for more information.
+
 ## Alpha|Beta Information
 There are no known plans for a public Alpha/Beta at this time. However there are plans for a Closed Beta.
 > There will be a closed beta. I will post more about it on x/twitter closer to the time.
 > - Andrew Gower: [Twitter Post](https://x.com/AndrewCGower/status/1767973447425003776)
+
+### Open Beta | Early Access
+When Brighter Shores releases on Steam, it will be as Early Access and Open Beta at the same time. The game will not be complete as there will be features like PvP that will still need to be added into the game.
+
+> The plan is the game will be labelled as ‘early access’ until PvP is added. i.e I want to let people start playing without having to wait even longer, but acknowledge its not quite finished at that point. There will NOT be a save reset at the end of early access.
+> - Andrew Gower: [X Post](https://x.com/AndrewCGower/status/1825657416983392507)
+
+## Ultra Wide Support
+Brighter Shores will come with Ultra Wide Support per Andrew's tweet of 'yes' when asked about it;
+
+> yes
+> - Andrew Gower: [X Post](https://x.com/AndrewCGower/status/1825810995878449321)
 
 ## Information Cards
 Paul Gower is another source of information and he has been working on the Information Cards of Brighter Shores. Information internally to the game will be shared by using these Information Cards so you can gain a better understanding of the game while playing. Make sure to interact with everything so that you can collect these cards!
